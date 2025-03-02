@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.18.2",
+    "express-jwt": "^8.5.1",
+    "jsonwebtoken": "^9.0.2",
+    "jwtauth": "file:"
+  },
+  "name": "jwtauth",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ushakundar/NodeJS-JWT-Authentication-Test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ushakundar/NodeJS-JWT-Authentication-Test/issues"
+  },
+  "homepage": "https://github.com/ushakundar/NodeJS-JWT-Authentication-Test#readme",
+  "description": ""
+}
